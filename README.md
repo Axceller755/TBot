@@ -10,22 +10,7 @@
 Этот бот при получении JSON:
 * Проверяет на ошибки синтаксиса
 * Возвращает JSON в удобочитаемом формате
-
-## 🖼 Скриншоты
-
-Стартовое меню:
-
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
-
-После отправки JSON c ошибкой:
-
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
-
-Пример работы бьютифаера:
-
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
-
-
+* 
 ## 💻 Технологии
 
 * Python
@@ -61,4 +46,4 @@ python3 json_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Евгений Левыкин ([@ev1lbevil](https://t.me/ev1lbevil))
